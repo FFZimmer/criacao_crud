@@ -1,0 +1,3 @@
+UPDATE produtos
+SET preco = 2799.99, descricao = 'Smartphone de última geração com desconto'
+WHERE nome = 'Smartphone X';
