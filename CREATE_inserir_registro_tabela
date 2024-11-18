@@ -1,0 +1,2 @@
+INSERT INTO produtos (nome, descricao, preco)
+VALUES ('Smartphone X', 'Um smartphone de última geração', 2999.99);
